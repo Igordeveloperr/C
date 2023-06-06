@@ -11,6 +11,10 @@ int main()
 	cin >> a;
 	cout << "b: ";
 	cin >> b;
+	
+	string message = "";
+	((a > 1000) && (b > 1000)) ? message = "БААН" : message = "ВСЕ НОРМ";
+	cout << message << endl;
 
 	if ((a > b) && (a <= 100)) 
 	{
