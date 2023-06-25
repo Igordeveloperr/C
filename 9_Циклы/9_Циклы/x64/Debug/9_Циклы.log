@@ -1,0 +1,4 @@
+﻿  9_Циклы.cpp
+C:\Users\Gokhlia\Desktop\C\9_Циклы\9_Циклы\9_Циклы.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Gokhlia\Desktop\C\9_Циклы\9_Циклы\9_Циклы.cpp(30,9): warning C4101: data2: неиспользованная локальная переменная
+  9_Циклы.vcxproj -> C:\Users\Gokhlia\Desktop\C\9_Циклы\x64\Debug\9_Циклы.exe
